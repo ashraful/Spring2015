@@ -1,6 +1,6 @@
 #School Project
 
-Learning Git.
+Learning *Git*.
 
 * git init
 * git status
