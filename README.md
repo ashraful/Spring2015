@@ -1,3 +1,3 @@
 #School Project
 
-Learning Git
+Learning Git.
